@@ -5170,7 +5170,8 @@ section.timeline .timeline-box .owl-carousel {
 }
 
 .testimonial .testimonial-author img {
-	max-width: 55px;
+	max-width: 15%;
+	border:2px solid #f39c12;
 }
 
 .testimonial .testimonial-author strong {

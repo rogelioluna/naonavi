@@ -1,0 +1,34 @@
+/* Add here all your CSS customizations */
+.fparallax { 
+    /* The image used */
+    background-image: url("../img/sunset.jpg");
+
+    /* Set a specific height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sparallax { 
+    /* The image used */
+    background-image: url("../img/coding.JPEG");
+
+    /* Set a specific height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.layer {
+    background-color: rgba(40, 40, 40, 0.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

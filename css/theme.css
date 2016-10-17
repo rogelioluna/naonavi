@@ -805,7 +805,7 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 	}
 
 	#header .header-nav.header-nav-dark-dropdown nav > ul > li.dropdown.dropdown-mega .dropdown-mega-sub-title {
-		color: #ababab;
+		color: #F39C12;
 	}
 
 	#header .header-nav.header-nav-dark-dropdown nav > ul > li.dropdown.dropdown-mega .dropdown-mega-sub-nav > li:hover > a {

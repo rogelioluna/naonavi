@@ -9,7 +9,7 @@
         $(window).scroll(function () {
 
                  // set distance user needs to scroll before we start fadeIn
-            if ($(this).scrollTop() > 100) {
+            if ($(this).scrollTop() > $('.slider-container').height()) {
                 $('.header-body').fadeIn();
             } else {
                 $('.header-body').fadeOut();
